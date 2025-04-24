@@ -16,5 +16,11 @@
     "slug": "projects",
     "path": "examples/basic-blog/outstatic/content/projects",
     "children": []
+  },
+  {
+    "title": "wewewew",
+    "slug": "wewewew",
+    "path": "outstatic/content/wewewew",
+    "children": []
   }
 ]
